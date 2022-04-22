@@ -13,5 +13,4 @@
     4<7, 4<5, 4>1, 4>3 => 3'ün sağında yer alır.
     2<7, 2<5, 2>1, 2<3 => 3'ün solunda yer alır.
     
-    
-    ![bst_graph](https://user-images.githubusercontent.com/61492017/164761944-88f13ff2-69fb-4045-899d-c0f8281e81ee.png)
+![bst_graph](https://user-images.githubusercontent.com/61492017/164761944-88f13ff2-69fb-4045-899d-c0f8281e81ee.png)
